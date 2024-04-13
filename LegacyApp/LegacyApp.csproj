@@ -4,13 +4,4 @@
     <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Core\DAL\Services\" />
-    <Folder Include="Core\DAL\Repositories\" />
-    <Folder Include="Core\Interfaces\" />
-    <Folder Include="Core\Validators\Clients\" />
-    <Folder Include="Core\Validators\Users\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>
